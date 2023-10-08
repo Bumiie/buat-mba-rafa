@@ -54,10 +54,20 @@ body{
     animation-delay: 1.6s ;
 }
 
-.description{
+.description1{
     font-size: 1.5rem;
     margin-bottom: 20px;
 }
+.description2{
+    font-size: 1rem;
+    margin-bottom: 20px;
+}
+.description3{
+    font-size: 1rem;
+    margin-bottom: 20px;
+}
+
+
 
 .button a{
     text-decoration: none;
